@@ -83,5 +83,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://spectacular-elm-80af7.netlify.app"
 }
